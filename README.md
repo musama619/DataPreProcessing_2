@@ -1,5 +1,6 @@
 # Data-Preprocessing
 
+Data Preprocessing part 1: https://github.com/musama619/DataPreProcessing
 
 * ### Handling Missing Data <br>
 * ### Encoding Independent Variables <br>
@@ -22,4 +23,4 @@
 Important link: 
 - https://medium.com/@contactsunny/label-encoder-vs-one-hot-encoder-in-machine-learning-3fc273365621#:~:text=What%20one%20hot%20encoding%20does,which%20column%20has%20what%20value.&text=So%2C%20that's%20the%20difference%20between%20Label%20Encoding%20and%20One%20Hot%20Encoding.
 
-Data Preprocessing part 2: https://github.com/musama619/DataPreProcessing
+
