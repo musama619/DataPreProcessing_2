@@ -1,8 +1,6 @@
 # Data-Preprocessing
 
 
-# Data Preprocessing <br>
-
 * ### Handling Missing Data <br>
 * ### Encoding Independent Variables <br>
     *OneHotEncoder* <br>
